@@ -1,0 +1,21 @@
+.homeContainer{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.homework{
+  display: flex;
+  flex: 3;
+  /* justify-content: center ; */
+  flex-wrap: wrap;
+  gap: 20px;
+  max-width: 1024px;
+}
+
+.homeTitle{
+  width: 1024px;
+  font-size: 20px;
+}
